@@ -2,3 +2,5 @@ test/
 test_outputs/
 weights/
 configs/
+*.egg-info/
+__pycache__/
